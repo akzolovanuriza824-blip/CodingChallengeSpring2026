@@ -1,4 +1,4 @@
 package org.example.month;
 
-public class January git {
+public class January  {
 }
