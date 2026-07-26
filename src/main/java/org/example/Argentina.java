@@ -2,6 +2,6 @@ package org.example;
 
 public class Argentina {
     public static void main(String[] args) {
-        System.out.println("Argentina is not champions!!");
+        System.out.println("Spain is  champions!!");
     }
 }
